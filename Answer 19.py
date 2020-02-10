@@ -5,3 +5,6 @@ def revers(a):
 
 ##function callable
 revers(‘Hello’) output ‘olleh
+
+
+#########updating the comments for second commit 
