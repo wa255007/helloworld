@@ -7,4 +7,4 @@ def revers(a):
 revers(‘Hello’) output ‘olleh
 
 
-#########updating the comments for second commit 
+#########updating the comments for lab on 23 feb 11:56 AM
