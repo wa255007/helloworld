@@ -12,3 +12,5 @@ def charcount (filename):
         print ('character :  frequecy' )
         for keys  in dic:
             print (dic[keys][0][0],':',dic[keys][0][1])
+            
+  ##edited at the master one on web, sync it now
