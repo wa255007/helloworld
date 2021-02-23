@@ -13,3 +13,5 @@ def palindromes(text):
 
 palindromes('eleloool')##function call 
 ‘lool’
+
+----##return this chuss or made changes
